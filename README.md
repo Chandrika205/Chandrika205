@@ -53,7 +53,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Chandrika205/Chandrika205/output/snake.svg" alt="Snake animation" />
-
 ###
